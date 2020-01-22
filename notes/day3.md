@@ -45,7 +45,7 @@ What are the three forms of implicit value in Scala?
 - `implicit val` `implicit object` `implicit def`
 
 What does implicit def do that the other two cannot?
-- type class composition. Building more complicated type class instances from simpler instances.
+- type class instance composition. Building more complicated type class instances from simpler instances.
 
 How do we require a type class instance in Scala?
 - we add an implicit parameter to a method
