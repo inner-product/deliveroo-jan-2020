@@ -307,3 +307,4 @@ final case class C() extends A {
   def doSomething = ???
 }
 ```
+    
